@@ -2,6 +2,8 @@
 
 Katano is a simple guessing game built with [Remix](https://remix.run/) and uses [SST](https://sst.dev) to manage its infrastructure deployed to AWS.
 
+You can preview it [here](https://d32ar85gncb67v.cloudfront.net/).
+
 ## Architecture
 
 ### Deployment
